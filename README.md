@@ -10,4 +10,6 @@
 
 <img width="385" alt="스크린샷 2023-07-26 오후 11 30 24" src="https://github.com/taeyoonL/map_view/assets/132141316/5f4dc5a9-6589-41a7-833e-4a4dda60909c">
 
+<img width="385" alt="스크린샷 2023-07-26 오후 11 30 39" src="https://github.com/taeyoonL/map_view/assets/132141316/18eea5db-473c-4216-bc14-620eb61afa99">
+
 
